@@ -17,5 +17,6 @@ Type in the correct pdf page number for your link to jump to the right place and
 
 Once all of your links have been created, click on the "Tools" option near the top-right of the window, then choose the "Content" sub-menu to find the "Link" tool. This will highlight all of the links in your pdf (even if you chose to use invisible boxes), so you can quickly find them. Right-click on each link and choose "Properties..." Choose the "Actions" Tab, and then click the "Edit" button to make changes to the Zoom setting and, if you didn't already properly set the specific link page, write in the correct link page. Set the zoom setting to "Inherit Zoom." Make sure to hit "OK" for all of the open dialogues to save the settings. Do this for every single link in your document, so that anyone who reads your document and clicks on your links doesn't have the file reset the zoom level every time (which can get really annoying). After you've completely set all of the links, save your file.
 
+----
 ### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
 
