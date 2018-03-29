@@ -7,7 +7,3 @@ Written by Brian Geyer and maintained by [LEADR Staff](http://leadr.msu.edu/). H
 Find all of our tutorials at [http://leadr-msu.github.io/](http://leadr-msu.github.io/). 
 
 
-
-----
-### Return to [LEADR's Resources list](https://github.com/leadr-msu/resources)
-
